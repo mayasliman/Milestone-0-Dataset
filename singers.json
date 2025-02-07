@@ -6,7 +6,7 @@
       "age": 31,
       "isActive": true,
       "birthDate": "1993-06-26",
-      "imageUrl": "https://static.wikia.nocookie.net/disney/images/9/96/Ariana_Grande_at_the_2020_Grammy_Awards.jpg/revision/latest?cb=20210527173655",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Ariana_Grande.png",
       "genre": "Pop",
       "hitSongs": ["Thank U, Next", "7 Rings", "Positions"],
       "recordLabel": {
@@ -24,7 +24,7 @@
       "age": 30,
       "isActive": true,
       "birthDate": "1994-03-01",
-      "imageUrl": " https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2sT8QpJY52wvOsCpItfcfRDoHGJQ9PErx2JkNIbXzs2fw5p_ZJx72mVTP1eamKp6c90Vdp8oyZ14--bTG7Qyz1w",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/justin-bieber.jpg",
       "genre": "Pop, R&B",
       "hitSongs": ["Baby", "Sorry", "Love Yourself"],
       "recordLabel": {
@@ -42,7 +42,7 @@
       "age": 34,
       "isActive": true,
       "birthDate": "1989-12-13",
-      "imageUrl": " https://static01.nyt.com/images/2022/10/24/arts/24taylor-notebook3/24taylor-notebook3-superJumbo.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Taylor-swift.jpg",
       "genre": "Pop, Country",
       "hitSongs": ["Shake It Off", "Blank Space", "Love Story"],
       "recordLabel": {
@@ -60,7 +60,7 @@
       "age": 33,
       "isActive": true,
       "birthDate": "1991-02-17",
-      "imageUrl": " https://m.media-amazon.com/images/M/MV5BODI4NTkxOTkxMV5BMl5BanBnXkFtZTgwMzE0MDEzMTE@._V1_FMjpg_UX1000_.jpg ",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Ed-sheeran.jpg",
       "genre": "Pop, Folk",
       "hitSongs": ["Shape of You", "Thinking Out Loud", "Perfect"],
       "recordLabel": {
@@ -78,7 +78,7 @@
       "age": 42,
       "isActive": true,
       "birthDate": "1981-09-04",
-      "imageUrl": "https://www.billboard.com/wp-content/uploads/2022/06/Beyonce-cr-Courtesy-of-Parkwood-Entertainment-press-2022-billboard-1548.jpg ",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Beyonce.png",
       "genre": "R&B, Pop",
       "hitSongs": ["Halo", "Crazy in Love", "Single Ladies"],
       "recordLabel": {
@@ -96,7 +96,7 @@
       "age": 34,
       "isActive": true,
       "birthDate": "1990-02-16",
-      "imageUrl": "https://www.billboard.com/wp-content/uploads/2023/06/the-weeknd-may-2023-billboard-1548.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/the-weeknd.png",
       "genre": "R&B, Pop",
       "hitSongs": ["Blinding Lights", "Save Your Tears", "Starboy"],
       "recordLabel": {
@@ -114,7 +114,7 @@
       "age": 23,
       "isActive": true,
       "birthDate": "2001-12-18",
-      "imageUrl": " https://writteninmusic.com/wp-content/uploads/2021/08/HappierThanEver_Billie_Eilish.jpg ",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Billie_Eilish.jpg",
       "genre": "Alternative, Pop",
       "hitSongs": ["Bad Guy", "Happier Than Ever", "Everything I Wanted"],
       "recordLabel": {
@@ -132,7 +132,7 @@
       "age": 38,
       "isActive": true,
       "birthDate": "1986-10-24",
-      "imageUrl": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRe05b-7ElyXcgDeI3kOzX0S7z-ySzDDEjQ&s",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Drake.jpg",
       "genre": "Hip-hop, R&B",
       "hitSongs": ["Hotline Bling", "God’s Plan", "In My Feelings"],
       "recordLabel": {
@@ -150,7 +150,7 @@
       "age": 26,
       "isActive": true,
       "birthDate": "1998-08-08",
-      "imageUrl": " https://static.wikia.nocookie.net/taylor-swift/images/6/61/Shawn-Mendes.jpg/revision/latest?cb=20230124083859 ",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Shawn-Mendes.png",
       "genre": "Pop",
       "hitSongs": ["Stitches", "Treat You Better", "There’s Nothing Holdin’ Me Back"],
       "recordLabel": {
@@ -168,7 +168,7 @@
       "age": 36,
       "isActive": true,
       "birthDate": "1988-02-20",
-      "imageUrl": " https://assets.vogue.com/photos/665f50c05aa2055fb127cb65/2:3/w_2548,h_3822,c_limit/2150388270 ",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Rihanna.png",
       "genre": "R&B, Pop",
       "hitSongs": ["Umbrella", "Diamonds", "We Found Love"],
       "recordLabel": {
