@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Ariana Grande",
+      "description": "Popzangeres en actrice bekend om haar krachtige stem en brede vocale bereik.",
+      "age": 31,
+      "isActive": true,
+      "birthDate": "1993-06-26",
+      "imageUrl": "https://static.wikia.nocookie.net/disney/images/9/96/Ariana_Grande_at_the_2020_Grammy_Awards.jpg/revision/latest?cb=20210527173655",
+      "genre": "Pop",
+      "hitSongs": ["Thank U, Next", "7 Rings", "Positions"],
+      "recordLabel": {
+        "id": 101,
+        "name": "Republic Records",
+        "foundedYear": 1995,
+        "location": "New York, VS",
+        "website": "https://www.republicrecords.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Justin Bieber",
+      "description": "Canadese zanger die wereldwijd bekend werd met zijn hit 'Baby'.",
+      "age": 30,
+      "isActive": true,
+      "birthDate": "1994-03-01",
+      "imageUrl": " https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2sT8QpJY52wvOsCpItfcfRDoHGJQ9PErx2JkNIbXzs2fw5p_ZJx72mVTP1eamKp6c90Vdp8oyZ14--bTG7Qyz1w",
+      "genre": "Pop, R&B",
+      "hitSongs": ["Baby", "Sorry", "Love Yourself"],
+      "recordLabel": {
+        "id": 102,
+        "name": "Def Jam Recordings",
+        "foundedYear": 1984,
+        "location": "New York, VS",
+        "website": "https://www.defjam.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Taylor Swift",
+      "description": "Bekende singer-songwriter die zowel country als popmuziek maakt.",
+      "age": 34,
+      "isActive": true,
+      "birthDate": "1989-12-13",
+      "imageUrl": " https://static01.nyt.com/images/2022/10/24/arts/24taylor-notebook3/24taylor-notebook3-superJumbo.jpg",
+      "genre": "Pop, Country",
+      "hitSongs": ["Shake It Off", "Blank Space", "Love Story"],
+      "recordLabel": {
+        "id": 103,
+        "name": "Republic Records",
+        "foundedYear": 1995,
+        "location": "New York, VS",
+        "website": "https://www.republicrecords.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ed Sheeran",
+      "description": "Britse singer-songwriter bekend om zijn emotionele liedjes en gitaarspel.",
+      "age": 33,
+      "isActive": true,
+      "birthDate": "1991-02-17",
+      "imageUrl": " https://m.media-amazon.com/images/M/MV5BODI4NTkxOTkxMV5BMl5BanBnXkFtZTgwMzE0MDEzMTE@._V1_FMjpg_UX1000_.jpg ",
+      "genre": "Pop, Folk",
+      "hitSongs": ["Shape of You", "Thinking Out Loud", "Perfect"],
+      "recordLabel": {
+        "id": 104,
+        "name": "Atlantic Records",
+        "foundedYear": 1947,
+        "location": "Los Angeles, VS",
+        "website": "https://www.atlanticrecords.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Beyoncé",
+      "description": "Superster en voormalig lid van Destiny’s Child met een enorme solo-carrière.",
+      "age": 42,
+      "isActive": true,
+      "birthDate": "1981-09-04",
+      "imageUrl": "https://www.billboard.com/wp-content/uploads/2022/06/Beyonce-cr-Courtesy-of-Parkwood-Entertainment-press-2022-billboard-1548.jpg ",
+      "genre": "R&B, Pop",
+      "hitSongs": ["Halo", "Crazy in Love", "Single Ladies"],
+      "recordLabel": {
+        "id": 105,
+        "name": "Parkwood Entertainment",
+        "foundedYear": 2010,
+        "location": "Los Angeles, VS",
+        "website": "https://www.beyonce.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "The Weeknd",
+      "description": "Canadese R&B-zanger bekend om zijn unieke stem en mysterieuze stijl.",
+      "age": 34,
+      "isActive": true,
+      "birthDate": "1990-02-16",
+      "imageUrl": "https://www.billboard.com/wp-content/uploads/2023/06/the-weeknd-may-2023-billboard-1548.jpg",
+      "genre": "R&B, Pop",
+      "hitSongs": ["Blinding Lights", "Save Your Tears", "Starboy"],
+      "recordLabel": {
+        "id": 106,
+        "name": "XO Records",
+        "foundedYear": 2012,
+        "location": "Toronto, Canada",
+        "website": "https://www.theweeknd.com"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Billie Eilish",
+      "description": "Jonge zangeres bekend om haar alternatieve en mysterieuze stijl.",
+      "age": 23,
+      "isActive": true,
+      "birthDate": "2001-12-18",
+      "imageUrl": " https://writteninmusic.com/wp-content/uploads/2021/08/HappierThanEver_Billie_Eilish.jpg ",
+      "genre": "Alternative, Pop",
+      "hitSongs": ["Bad Guy", "Happier Than Ever", "Everything I Wanted"],
+      "recordLabel": {
+        "id": 107,
+        "name": "Darkroom/Interscope",
+        "foundedYear": 2015,
+        "location": "Los Angeles, VS",
+        "website": "https://www.billieeilish.com"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Drake",
+      "description": "Canadese rapper en zanger met vele hits in hiphop en R&B.",
+      "age": 38,
+      "isActive": true,
+      "birthDate": "1986-10-24",
+      "imageUrl": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPRe05b-7ElyXcgDeI3kOzX0S7z-ySzDDEjQ&s",
+      "genre": "Hip-hop, R&B",
+      "hitSongs": ["Hotline Bling", "God’s Plan", "In My Feelings"],
+      "recordLabel": {
+        "id": 108,
+        "name": "OVO Sound",
+        "foundedYear": 2012,
+        "location": "Toronto, Canada",
+        "website": "https://www.drakeofficial.com"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Shawn Mendes",
+      "description": "Canadese singer-songwriter bekend om zijn romantische popliedjes.",
+      "age": 26,
+      "isActive": true,
+      "birthDate": "1998-08-08",
+      "imageUrl": " https://static.wikia.nocookie.net/taylor-swift/images/6/61/Shawn-Mendes.jpg/revision/latest?cb=20230124083859 ",
+      "genre": "Pop",
+      "hitSongs": ["Stitches", "Treat You Better", "There’s Nothing Holdin’ Me Back"],
+      "recordLabel": {
+        "id": 109,
+        "name": "Island Records",
+        "foundedYear": 1959,
+        "location": "New York, VS",
+        "website": "https://www.islandrecords.com"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Rihanna",
+      "description": "Zangeres, mode-icoon en ondernemer bekend om haar veelzijdige stijl.",
+      "age": 36,
+      "isActive": true,
+      "birthDate": "1988-02-20",
+      "imageUrl": " https://assets.vogue.com/photos/665f50c05aa2055fb127cb65/2:3/w_2548,h_3822,c_limit/2150388270 ",
+      "genre": "R&B, Pop",
+      "hitSongs": ["Umbrella", "Diamonds", "We Found Love"],
+      "recordLabel": {
+        "id": 110,
+        "name": "Roc Nation",
+        "foundedYear": 2008,
+        "location": "New York, VS",
+        "website": "https://www.rocnation.com"
+      }
+    }
+  ]
+  
