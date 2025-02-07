@@ -1,0 +1,83 @@
+[
+    {
+      "id": 101,
+      "name": "Republic Records",
+      "foundedYear": 1995,
+      "location": "New York, VS",
+      "website": "https://www.republicrecords.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Ariana_Grande.png"
+    },
+    {
+      "id": 102,
+      "name": "Def Jam Recordings",
+      "foundedYear": 1984,
+      "location": "New York, VS",
+      "website": "https://www.defjam.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/justin-bieber.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Republic Records",
+      "foundedYear": 1995,
+      "location": "New York, VS",
+      "website": "https://www.republicrecords.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Taylor-swift.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Atlantic Records",
+      "foundedYear": 1947,
+      "location": "Los Angeles, VS",
+      "website": "https://www.atlanticrecords.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Ed-sheeran.jpg"
+    },
+    {
+      "id": 105,
+      "name": "Parkwood Entertainment",
+      "foundedYear": 2010,
+      "location": "Los Angeles, VS",
+      "website": "https://www.beyonce.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Beyonce.png"
+    },
+    {
+      "id": 106,
+      "name": "XO Records",
+      "foundedYear": 2012,
+      "location": "Toronto, Canada",
+      "website": "https://www.theweeknd.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/the-weeknd.png"
+    },
+    {
+      "id": 107,
+      "name": "Darkroom/Interscope",
+      "foundedYear": 2015,
+      "location": "Los Angeles, VS",
+      "website": "https://www.billieeilish.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Billie_Eilish.jpg"
+    },
+    {
+      "id": 108,
+      "name": "OVO Sound",
+      "foundedYear": 2012,
+      "location": "Toronto, Canada",
+      "website": "https://www.drakeofficial.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Drake.jpg"
+    },
+    {
+      "id": 109,
+      "name": "Island Records",
+      "foundedYear": 1959,
+      "location": "New York, VS",
+      "website": "https://www.islandrecords.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Shawn-Mendes.png"
+    },
+    {
+      "id": 110,
+      "name": "Roc Nation",
+      "foundedYear": 2008,
+      "location": "New York, VS",
+      "website": "https://www.rocnation.com",
+      "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Rihanna.png"
+    }
+  ]
+  
