@@ -17,10 +17,10 @@
     },
     {
       "id": 103,
-      "name": "Republic Records",
+      "name": "RPR",
       "foundedYear": 1995,
       "location": "New York, VS",
-      "website": "https://www.taylorswift.com/",
+      "website": "https://www.republicrecords.com",
       "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Taylor-swift.jpg"
     },
     {
@@ -52,7 +52,7 @@
       "name": "Darkroom/Interscope",
       "foundedYear": 2015,
       "location": "Los Angeles, VS",
-      "website": "https://store.billieeilish.com/",
+      "website": "https://billieeilish.com/",
       "imageUrl": "https://raw.githubusercontent.com/mayasliman/Milestone-0-Dataset/refs/heads/main/assets/images/Billie_Eilish.jpg"
     },
     {
